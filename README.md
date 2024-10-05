@@ -1,8 +1,29 @@
-# React + Vite
+# Math-Trix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Math-Trix is a web application built with React and Redux Toolkit. It provides various mathematical tools and utilities.
 
-Currently, two official plugins are available:
+## Installation
+To get started with the project, follow these steps:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/viiktoria7kk/math-trix.git
+    cd math-trix
+    ```
+
+2. Install dependencies using pnpm:
+    ```sh
+    pnpm install
+    ```
+
+3. Start the development server:
+    ```sh
+    pnpm start
+    ```
+
+## Usage
+Once the development server is running, you can access the application at `http://localhost:5173/`.
+
+## License
+This project is licensed under the MIT License.
